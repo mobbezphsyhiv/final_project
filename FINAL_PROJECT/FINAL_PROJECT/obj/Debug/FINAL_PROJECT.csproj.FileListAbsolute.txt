@@ -1,0 +1,8 @@
+E:\Програмування\Віжуал фігня\Курси\FINAL_PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe.config
+E:\Програмування\Віжуал фігня\Курси\FINAL_PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.exe
+E:\Програмування\Віжуал фігня\Курси\FINAL_PROJECT\FINAL_PROJECT\bin\Debug\FINAL_PROJECT.pdb
+E:\Програмування\Віжуал фігня\Курси\FINAL_PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.AssemblyReference.cache
+E:\Програмування\Віжуал фігня\Курси\FINAL_PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.SuggestedBindingRedirects.cache
+E:\Програмування\Віжуал фігня\Курси\FINAL_PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.csproj.CoreCompileInputs.cache
+E:\Програмування\Віжуал фігня\Курси\FINAL_PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.exe
+E:\Програмування\Віжуал фігня\Курси\FINAL_PROJECT\FINAL_PROJECT\obj\Debug\FINAL_PROJECT.pdb
